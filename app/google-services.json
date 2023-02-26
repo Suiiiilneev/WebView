@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863222894361",
+    "project_id": "betnacional-casa-de-esporte",
+    "storage_bucket": "betnacional-casa-de-esporte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863222894361:android:88fd4eee008d8379023f88",
+        "android_client_info": {
+          "package_name": "com.hegilester.betnacio.casadesporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863222894361-2aj631p587272hbc891l753qurhoiori.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgagpDCns0IWOT1hKqV1tG9CW6rCl4uN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863222894361-2aj631p587272hbc891l753qurhoiori.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
